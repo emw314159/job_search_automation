@@ -1,1 +1,1 @@
-# job_search_automation
+Scans the Thermo Fisher jobs page for the Carlsbad site and promptly alerts me to new openings.
